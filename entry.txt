@@ -1,1 +1,1 @@
-I asked my agent one yes-or-no question; it made forty-seven tool calls, read three docs, and answered 'it depends'.
+I asked my agent one yes-or-no question; it burned forty-seven tool calls and three docs, then answered: 'it depends'.
